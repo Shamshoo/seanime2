@@ -1,0 +1,12 @@
+{
+    "id": "anitaku-test",
+    "name": "AniTaku Test",
+    "description": "Test provider",
+    "manifestURI": "https://raw.githubusercontent.com/Shamshoo/seanime2/refs/heads/main/anitaku-test.json",
+    "version": "1.0.0",
+    "author": "Test",
+    "type": "online-stream-provider",
+    "language": "typescript",
+    "lang": "en",
+    "payload": "class Provider { getSettings(): Settings { return { episodeServers: [], supportsDub: false } } }"
+}
