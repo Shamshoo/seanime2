@@ -2,7 +2,7 @@
     "id": "anitaku-provider",
     "name": "AniTaku Provider",
     "description": "Online streaming provider for AniTaku (formerly GoGoAnime)",
-    "manifestURI": "https://raw.githubusercontent.com/Shamshoo/NitroSniperGo/refs/heads/master/anitaku.json",
+    "manifestURI": "https://raw.githubusercontent.com/Shamshoo/seanime2/refs/heads/main/anitaku.json",
     "version": "1.0.0",
     "author": "Your Name",
     "type": "online-streaming-provider",
